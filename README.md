@@ -34,6 +34,6 @@ Overall, the theme attempts to balance personal creativity with a structured lay
 
 ## Reflection
 
-While working on this assignment, I learned how CSS can transform a basic HTML structure into something more visually appealing and engaging. I find CSS more creative and enjoyable to work with than HTML; however, I understand that both languages are essential and work together to create functional, well-structured websites.
+While working on this assignment, I learned how CSS can transform a basic HTML structure into something more visually appealing and engaging. I find CSS more creative and enjoyable to work with than HTML; however, I understand that both languages are essential and work together to create functional, well-structured websites. I did face a few challenges with the differences in CSS compared to HTML, the "tags" and the way CSS is layed out did confuse me a bit but as i read over my course notes again along with my own research, i was able to successfully create the CSS file. :) 
 
 This assignment helped me better understand how design choices such as colour, typography, and layout contribute to the overall look and feel of a website.
